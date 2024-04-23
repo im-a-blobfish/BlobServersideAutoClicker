@@ -1,0 +1,7 @@
+# da blobfish serverside auto clicker config file
+
+# The maximum tick interval allowed (int) (milliseconds / 50)
+max-interval: 100
+
+# The minimum tick interval allowed (int) (milliseconds / 50)
+min-interval: 10

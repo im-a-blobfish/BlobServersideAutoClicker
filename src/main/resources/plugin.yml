@@ -1,0 +1,9 @@
+name: BlobServersideAutoClicker
+version: '${project.version}'
+main: me.blobfish.blobserversideautoclicker.BlobServersideAutoClicker
+api-version: '1.20'
+commands:
+  autoclicker:
+    description: A Serverside Autoclicker
+    usage: /autoclicker <start/stop/interval>
+    permission: classictool.autoclicker
